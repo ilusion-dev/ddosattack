@@ -14,7 +14,7 @@ year = now.year
 
 ##############
 sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
-bytes = random._urandom(10000)
+bytes = random._urandom(100000)
 #############
 
 os.system("clear")
@@ -23,7 +23,7 @@ print
 print "Author   : IlusionSz"
 print "You Tube : https://www.youtube.com/c/IlusionDev"
 print "github   : https://github.com/cau-flare"
-print "Facebook : https://www.facebook.com/cauaszscript"
+print "Discord : Ilusion#0779"
 print
 ip = raw_input("IP Target : ")
 port = input("Port       : ")
