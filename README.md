@@ -20,5 +20,5 @@
 Feito por:
 
 Discord: Ilusion#0779
-Contact to support.
+Contato para suporte.
 
