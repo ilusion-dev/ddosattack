@@ -1,19 +1,21 @@
-# DDos-Attack 
-### What Is A DDos-Attack
+# ATAQUE DDoS
+### ILUSION DEVELOPER
 
-### A Distributed Denial of Service (DDoS) attack is an attempt to make an online service unavailable 
-by overwhelming it with traffic from multiple sources. They target a wide variety of important resources
-from banks to news websites, and present a major challenge to making sure people can publish and access important information
+### Como funciona?
 
-### Dwonload&Install
+# O Objetivo do DDoS é sobrecarregar os servidores, fazendo com que esgote a sua memória/processamento e deixe ele offline. Este recurso envia uma grande quantidade de packet para sobrecarregar o servidor de seu interesse.
+
+### Comandos
 
 ### git clone https://github.com/cau-flare/ddosattack
 
-### cd DDos-Attack
+### cd ddosattack
 
-### chmod +x ddos-attack.py
+### Digite "ls" para verificar se contém o ddos-attack.py
 
-### python ddos-attack.py
+### python ddosattack.py
+
+# Quer mais projetos como esse? basta apoiar divulgando que irei lançar outros projetos.
 
 Feito por:
 
