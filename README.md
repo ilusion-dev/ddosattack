@@ -5,9 +5,9 @@
 
 # O Objetivo do DDoS é sobrecarregar os servidores, fazendo com que esgote a sua memória/processamento e deixe ele offline. Este recurso envia uma grande quantidade de packet para sobrecarregar o servidor de seu interesse.
 
-### Comandos
+### Comandos ( Terminal )
 
-### git clone https://github.com/cau-flare/ddosattack
+### git clone https://github.com/ilusion-dev/ddosattack.git
 
 ### cd ddosattack
 
